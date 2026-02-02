@@ -106,9 +106,8 @@ npm start
 http://localhost:3000
 
 
+```
 
-
----
 
 ## 🏆 FINAL NOTES (IMPORTANT)
 
